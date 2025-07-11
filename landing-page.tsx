@@ -14,7 +14,7 @@ export default function LandingPage() {
             SERVICES
           </span>
           <span className="text-white hover:text-gray-300 transition-colors text-sm font-medium tracking-widest">
-            TALK TO US
+            GET A QUOTE
           </span>
         </div>
       </nav>
@@ -39,7 +39,7 @@ export default function LandingPage() {
               style={{
                 fontFamily: "Oswald",
                 fontSize: "14pt",
-                fontWeight: 400, // Changed from 300 to 400 (Regular)
+                fontWeight: 300, // Changed from 400 to 300 (Light)
                 marginTop: "5px",
               }}
             >
