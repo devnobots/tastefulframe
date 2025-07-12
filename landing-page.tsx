@@ -39,7 +39,7 @@ export default function LandingPage() {
               style={{
                 fontFamily: "Oswald",
                 fontSize: "14pt",
-                fontWeight: 300, // Changed from 400 to 300 (Light)
+                fontWeight: 200, // Changed from 300 to 200 (Extra Light)
                 marginTop: "5px",
               }}
             >
